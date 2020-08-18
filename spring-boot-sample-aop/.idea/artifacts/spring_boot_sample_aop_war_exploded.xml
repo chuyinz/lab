@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring-boot-sample-aop:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_boot_sample_aop_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="spring-boot-sample-aop/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring-boot-sample-aop" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

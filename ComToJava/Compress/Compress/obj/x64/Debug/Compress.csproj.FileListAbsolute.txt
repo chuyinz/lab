@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Compress\Compress\bin\x64\Debug\Compress.dll
+C:\Users\Administrator\Desktop\Compress\Compress\bin\x64\Debug\Compress.pdb
+C:\Users\Administrator\Desktop\Compress\Compress\bin\x64\Debug\Compress.tlb
+C:\Users\Administrator\Desktop\Compress\Compress\obj\x64\Debug\Compress.dll
+C:\Users\Administrator\Desktop\Compress\Compress\obj\x64\Debug\Compress.pdb
+C:\Users\Administrator\Desktop\Compress\Compress\obj\x64\Debug\Compress.csprojResolveAssemblyReference.cache

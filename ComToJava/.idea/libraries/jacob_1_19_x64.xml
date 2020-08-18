@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jacob-1.19-x64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jacob-1.19/jacob-1.19/jacob.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../jacob-1.19/jacob-1.19" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

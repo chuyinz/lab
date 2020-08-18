@@ -1,0 +1,24 @@
+
+operator: admin a
+start time: 2019-05-07 16:57:55
+end time: 2019-05-07 16:57:55
+Method: sample.aop.service.AlumniService.findAlumniByYear(..) called:
+search result:
+zyy
+szw
+
+operator: admin a
+start time: 2019-05-07 18:00:59
+end time: 2019-05-07 18:00:59
+Method: sample.aop.service.AlumniService.findAlumniByYear(..) called:
+search result:
+zyy
+szw
+
+operator: admin a
+start time: 2019-05-07 18:01:49
+end time: 2019-05-07 18:01:49
+Method: sample.aop.service.AlumniService.findAlumniByYear(..) called:
+search result:
+zyy
+szw

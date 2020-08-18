@@ -1,0 +1,14 @@
+
+operator: admin a
+start time: 2019-05-07 18:04:51
+end time: 2019-05-07 18:04:52
+Method: sample.aop.service.AlumniService.updateAlumni(..) called:
+old value:zyy 1998.4.25 15060809856
+new value:zyy 1998.4.24 12024649
+
+operator: admin a
+start time: 2019-05-07 18:10:00
+end time: 2019-05-07 18:10:01
+Method: sample.aop.service.AlumniService.updateAlumniByDelete(..) called:
+old value:zyy 1998.4.24 12024649
+new value: null

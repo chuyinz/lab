@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="wildfly-ejb-remote-server-side:ejb-client">
+    <output-path>$PROJECT_DIR$/server-side/target</output-path>
+    <root id="archive" name="wildfly-ejb-remote-server-side-client.jar">
+      <element id="artifact" artifact-name="wildfly-ejb-remote-server-side:ejb-client exploded" />
+    </root>
+  </artifact>
+</component>

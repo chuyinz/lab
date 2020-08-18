@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="sample.aop.dao.AlumniMapper" >
+    <select id="findAlumniByYear" resultType="sample.aop.entity.Alumni"  parameterType="String" >
+    select * from alumni where enrollment_year=#{year}
+  </select>
+    <select id="findAlumniById" resultType="sample.aop.entity.Alumni"  parameterType="BigInteger" >
+    select * from alumni where id=#{id}
+  </select>
+<update id="updateAlumni" parameterType="sample.aop.entity.Alumni" >
+    update alumni set name=#{name},sex=#{sex},birthday=#{birthday},enrollment_year=#{year},work_area=#{work_area},work_address=#{work_address},position=#{position},
+    phone=#{phone},email=#{email},weixin=#{weixin}  where id=#{id}
+ </update>
+    <delete id="deleteAlumniById" parameterType="BigInteger">
+        delete  from  alumni where id=#{id}
+    </delete>
+</mapper>
